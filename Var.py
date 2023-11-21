@@ -1,5 +1,6 @@
 a = 15
 b = 6
-resultado = a * b + 12
+c = 25
+resultado = a * b + c
 
 print (resultado)
